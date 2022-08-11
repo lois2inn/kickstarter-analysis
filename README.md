@@ -1,9 +1,8 @@
 # An Analysis of Kickstarter Campaigns
-## Description of Project
-The project focuses on helping an upcoming playwright, Louise, start a crowdfunding campaign to fund her theater play, Fever.  Microsoft Excel is used to analyse similar kickstarter campaigns to give Louise an understanding of factors that can make her campaign successful. 
+The project focuses on helping an upcoming playwright, Louise, start a crowdfunding campaign to fund her theater play, Fever.  Microsoft Excel is used to analyze similar kickstarter campaigns to give Louise an understanding of factors that can make her campaign successful. 
 ## Purpose of Project
 Louise's play, Fever has an estimated budget of over $10,000. She needs to know if she can meet her fundraising goal in the US market for her theater play.
-She also needs a recommendation on a favorable launch date for the play.
+She also needs recommendation on launch dates for the play.
 ## Analysis of Category Outcomes
 Since Louise is interested in launching Fever in US, we analyzed kickstarter campaigns in the US market. Of the 912 campaigns launched, theater has 525 successful fundraisers, that is over 50% success rate.
 ![US_Category_Outcomes.png](/US_Category_Outcomes.png)
