@@ -25,7 +25,7 @@ As per our analysis, we found that the average goal for a successful kickstarter
 
 ## Analysis of Musical Outcomes in the Great British Market
 Louise is also interested in researching musicals in Great Britain for a future project with an estimated budget of £4,000. To present her with the big picture, we created box plots using statistical computations.
-![GB_Musical_Funding.png](/GB_Musical_Funding.png)
+![GB_Musical_Fundraisers.png](/GB_Musical_Fundraisers.png)
 
 ## Recommendations for Musical Fundraisers
 The mean campaign goal for theater musicals is around £4,000. This is outside of the range of outliers for amount pledged, so ***Louise should probably try to get her musical produced for less than £4,000 in Great Britain***.
